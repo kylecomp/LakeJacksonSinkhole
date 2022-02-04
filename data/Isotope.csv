@@ -1,0 +1,155 @@
+﻿ID,Location,Sampling time,dD vs vsmow,d18O vs vsmow
+LJ000,Porter Sink ,5/4/2021 13:00,15,3.48
+LJ001,Porter Sink,6/7/2021 13:49,25.9,6.29
+LJ002,Porter Sink,6/8/2021 13:08,23.3,5.29
+LJ003,Porter Sink,6/14/2021 17:20,29.4,6.43
+LJ004,Porter Sink,6/21/2021 11:18,5.1,3.2
+LJ005,Porter Sink,6/25/2021 10:40,-8.1,0.22
+LJ006,Porter Sink,7/5/2021 10:13,-0.3,1.05
+LJ007,Porter Sink,7/12/2021 10:14,4.8,2.23
+LJ008,Porter Sink,7/19/2021 10:30,11.2,2.89
+LJ009,Porter Sink,7/27/2021 11:20,10,2.74
+LJ010,Porter Sink,8/2/2021 10:45,12.6,3.56
+LJ011,Porter Sink,8/9/2021 10:45,14.7,3.87
+LJ012,Porter Sink,8/12/2021 14:38,17.2,4.75
+LJ013,Porter Sink,8/17/2021 11:50,4.5,1.42
+LJ014,Porter Sink,8/20/2021 9:45,5.4,1.81
+LJ015,Porter Sink,8/24/2021 9:25,5.1,1.75
+LJ016,Porter Sink,8/26/2021 13:40,9.3,2.03
+LJ017,Porter Sink,8/30/2021 8:40,5.5,1.55
+LJ018,Porter Sink,9/2/2021 7:50,-1.0,0.19
+LJ019,Porter Sink,9/7/2021 8:00,5.7,-1.45
+LJ020,Porter Sink,9/9/2021 8:02,-1.2,0.70
+LJ021,Porter Sink,9/13/2021 8:10,-12.3,-0.72
+LJ022,Porter Sink,9/16/2021 8:15,-14.5,-1.13
+LJ023,Porter Sink,9/30/2021 8:00,-13.1,-1.03
+LJ024,Porter Sink,10/7/2021 8:47,-59.3,-1.19
+LJ025,Porter Sink,10/14/2021 8:00,-11.1,-1.46
+LJ026,Porter Sink,10/20/2021 7:45,-8.2,NA
+LJ027,Porter Sink,10/29/2021 13:40,NA,-0.79
+FW001,FSU Well,5/4/2021 12:45,NA,NA
+FW002,FSU Well,6/8/2021 13:44,NA,NA
+FW003,FSU Well,6/14/2021 20:20,-21.5,-3.47
+FW004,FSU Well,6/21/2021 16:10,-20.0,-3.69
+FW005,FSU Well,6/25/2021 16:25,-18.5,-3.34
+FW006,FSU Well,7/5/2021 13:35,-18.5,-3.63
+FW007,FSU Well,7/12/2021 14:10,-17.4,-3.62
+FW008,FSU Well,7/19/2021 15:35,-14.5,-3.58
+FW009,FSU Well,7/27/2021 15:00,-17.0,-3.51
+FW010,FSU Well,8/2/2021 15:15,-18.6,-3.90
+FW011,FSU Well,8/9/2021 12:00,-5.0,-3.63
+FW012,FSU Well,8/13/2021 10:30,-18.8,-3.66
+FW013,FSU Well,8/17/2021 14:30,-18.9,-3.76
+FW014,FSU Well,8/20/2021 11:30,-15.9,-3.47
+FW015,FSU Well,8/24/2021 12:50,-15.3,-3.57
+FW016,FSU Well,8/26/2021 14:45,-15.5,-3.52
+FW017,FSU Well,8/30/2021 11:20,-18.5,-3.66
+FW018,FSU Well,9/2/2021 13:50,-19.1,-3.73
+FW019,FSU Well,9/7/2021 12:15,-16.9,-3.57
+FW020,FSU Well,9/9/2021 9:27,-18.0,-3.60
+FW021,FSU Well,9/13/2021 11:00,-21.6,-3.69
+FW022,FSU Well,9/16/2021 14:55,-16.6,-3.02
+FW023,FSU Well,9/30/2021 10:30,-20.3,-3.74
+FW024,FSU Well,10/7/2021 10:50,-19.5,-3.60
+FW025,FSU Well,10/14/2021 14:30,-15.3,-3.77
+FW026,FSU Well,10/20/2021 10:50,-15.5,NA
+FW027,FSU Well,10/29/2021 8:50,-18.3,-3.63
+BS001,Blue Sink,6/8/2021 15:48,4.7,2.02
+BS002,Blue Sink,6/14/2021 16:00,4.1,1.96
+BS003,Blue Sink,6/21/2021 0:00,2.4,1.67
+BS004,Blue Sink,6/25/2021 12:30,2.1,1.66
+BS005,Blue Sink,7/5/2021 12:13,2.0,1.49
+BS006,Blue Sink,7/12/2021 13:02,2.7,1.32
+BS007,Blue Sink,7/19/2021 13:55,4.8,1.35
+BS008,Blue Sink,7/27/2021 10:15,4.1,1.73
+BS009,Blue Sink,8/2/2021 10:00,1.6,1.21
+BS010,Blue Sink,8/9/2021 9:30,-4.8,1.39
+BS011,Blue Sink,8/13/2021 9:30,2.2,1.52
+BS012,Blue Sink,8/17/2021 10:03,0.1,1.27
+BS013,Blue Sink,8/20/2021 9:00,3.1,1.47
+BS014,Blue Sink,8/24/2021 8:45,3.7,1.38
+BS015,Blue Sink,8/26/2021 13:00,2.5,1.35
+BS016,Blue Sink,8/30/2021 10:10,-0.1,1.27
+BS017,Blue Sink,9/2/2021 9:24,1.3,1.03
+BS018,Blue Sink,9/7/2021 9:15,1.0,1.21
+BS019,Blue Sink,9/9/2021 9:20,1.6,1.10
+BS020,Blue Sink,9/13/2021 9:35,-0.2,0.98
+BS021,Blue Sink,9/16/2021 9:45,-1.1,1.06
+BS022,Blue Sink,9/30/2021 9:20,-1.0,NA
+BS023,Blue Sink,10/7/2021 9:50,NA,0.68
+BS024,Blue Sink,10/14/2021 10:00,2.9,0.67
+BS025,Blue Sink,10/20/2021 9:05,-0.6,0.93
+BS026,Blue Sink,10/29/2021 12:50,NA,0.77
+MS001,Munson Slough/Eight Mile Pond,8/13/2021 9:20,-9.8,-1.23
+MS002,Munson Slough/Eight Mile Pond,8/17/2021 9:55,-12.2,-1.65
+MS003,Munson Slough/Eight Mile Pond,8/20/2021 8:50,-12.5,-2.03
+MS004,Munson Slough/Eight Mile Pond,8/24/2021 8:40,-13.1,-2.63
+MS005,Munson Slough/Eight Mile Pond,8/26/2021 12:50,-13.0,-2.51
+MS006,Munson Slough/Eight Mile Pond,8/30/2021 10:00,-12.1,-2.42
+MS007,Munson Slough/Eight Mile Pond,9/2/2021 9:00,-13.8,-2.62
+MS008,Munson Slough/Eight Mile Pond,9/7/2021 9:10,-16.4,-2.72
+MS009,Munson Slough/Eight Mile Pond,9/9/2021 9:10,-21.4,-3.55
+MS010,Munson Slough/Eight Mile Pond,9/13/2021 9:30,NA,-6.70
+MS011,Munson Slough/Eight Mile Pond,9/16/2021 9:35,-43.5,-6.57
+MS012,Munson Slough/Eight Mile Pond,9/30/2021 9:15,-32.5,-4.80
+MS013,Munson Slough/Eight Mile Pond,10/7/2021 9:30,-31.0,-4.60
+MS014,Munson Slough/Eight Mile Pond,10/14/2021 9:40,-11.4,-3.45
+MS015,Munson Slough/Eight Mile Pond,10/20/2021 8:25,-12.5,-3.03
+MS016,Munson Slough/Eight Mile Pond,10/29/2021 12:35,-12.1,-2.79
+SW001,Sally Ward Spring,6/8/2021 15:36,-16.5,-3.23
+SW002,Sally Ward Spring,6/14/2021 15:45,-19.2,-3.30
+SW003,Sally Ward Spring,6/21/2021 13:10,-20.6,-3.68
+SW004,Sally Ward Spring,6/25/2021 12:10,-18.9,-3.49
+SW005,Sally Ward Spring,7/5/2021 13:49,-17.3,-3.57
+SW006,Sally Ward Spring,7/12/2021 12:46,-15.7,-3.56
+SW007,Sally Ward Spring,7/19/2021 13:30,-18.8,-3.56
+SW008,Sally Ward Spring,7/27/2021 10:00,-17.6,-3.44
+SW009,Sally Ward Spring,8/2/2021 9:40,-19.4,-3.80
+SW010,Sally Ward Spring,8/9/2021 9:15,-20.5,-3.56
+SW011,Sally Ward Spring,8/13/2021 8:50,-19.8,-3.58
+SW012,Sally Ward Spring,8/17/2021 9:15,-17.1,-3.39
+SW013,Sally Ward Spring,8/20/2021 8:20,-17.1,-3.48
+SW014,Sally Ward Spring,8/24/2021 8:10,-9.6,-3.57
+SW015,Sally Ward Spring,8/26/2021 12:20,-16.9,-3.56
+SW016,Sally Ward Spring,8/30/2021 9:35,-19.3,-3.63
+SW017,Sally Ward Spring,9/2/2021 8:42,-18.7,-3.53
+SW018,Sally Ward Spring,9/7/2021 8:45,-19.3,-3.55
+SW019,Sally Ward Spring,9/9/2021 8:40,-18.7,-3.40
+SW020,Sally Ward Spring,9/13/2021 9:00,-20.8,-3.06
+SW021,Sally Ward Spring,9/16/2021 9:05,-18.5,NA
+SW022,Sally Ward Spring,9/30/2021 8:45,-377.8,NA
+SW023,Sally Ward Spring,10/7/2021 9:35,-92.7,NA
+SW024,Sally Ward Spring,10/14/2021 9:16,-17.0,-3.44
+SW025,Sally Ward Spring,10/20/2021 8:40,-17.4,-3.69
+SW026,Sally Ward Spring,10/29/2021 12:11,NA,-2.92
+WS001,Wakulla Springs,6/8/2021 15:10,-20.2,-3.48
+WS002,Wakulla Springs,6/14/2021 15:30,-21.7,-3.51
+WS003,Wakulla Springs,6/21/2021 12:30,-17.8,-3.42
+WS004,Wakulla Springs,6/25/2021 23:40,-18.6,-3.54
+WS005,Wakulla Springs,7/5/2021 11:32,-18.8,-3.36
+WS006,Wakulla Springs,7/12/2021 12:12,-15.7,-3.56
+WS007,Wakulla Springs,7/19/2021 13:15,-17.5,-3.65
+WS008,Wakulla Springs,7/27/2021 9:40,-17.3,-3.54
+WS009,Wakulla Springs,8/2/2021 9:30,-18.4,-3.75
+WS010,Wakulla Springs,8/9/2021 9:05,-20.8,-3.55
+WS011,Wakulla Springs,8/13/2021 9:00,-18.4,-3.56
+WS012,Wakulla Springs,8/17/2021 9:25,-18.7,-3.60
+WS013,Wakulla Springs,8/20/2021 8:35,-18.1,-3.48
+WS014,Wakulla Springs,8/24/2021 8:20,-16.1,-3.48
+WS015,Wakulla Springs,8/26/2021 12:30,-17.3,-3.47
+WS016,Wakulla Springs,8/30/2021 9:45,-18.7,-3.58
+WS017,Wakulla Springs,9/2/2021 8:45,-20.1,-3.60
+WS018,Wakulla Springs,9/7/2021 8:55,-18.6,-3.57
+WS019,Wakulla Springs,9/9/2021 8:50,-18.3,-3.28
+WS020,Wakulla Springs,9/13/2021 9:10,-52.2,-3.16
+WS021,Wakulla Springs,9/16/2021 9:15,-19.6,-3.48
+WS022,Wakulla Springs,9/30/2021 8:55,-23.5,-3.72
+WS023,Wakulla Springs,10/7/2021 9:40,-21.3,-3.71
+WS024,Wakulla Springs,10/14/2021 9:30,-18.2,-3.60
+WS025,Wakulla Springs,10/20/2021 8:45,-16.4,-3.68
+WS026,Wakulla Springs,10/29/2021 12:25,-19.4,-3.45
+PRE001,Rain,6/23/2021 13:50,-26.6,-4.25
+PRE002,Rain,7/5/2021 15:39,-50.6,-7.05
+PRE003,Rain,7/18/2021 13:15,-5.8,-2.93
+PRE004,Rain,8/12/2021 17:10,4.5,-1.01
+TS001,T.S. Fred,8/16/2021 18:20,-21.5,-3.83

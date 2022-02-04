@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <title>FGS Swallets</title>
+                <edition>2.0</edition>
+                <geoform>vector digital data</geoform>
+                <serinfo>
+                    <sername>NA</sername>
+                    <issue>NA</issue>
+                </serinfo>
+                <pubinfo>
+                    <pubplace/>
+                    <publish>Office of the Florida Geological Survey (FGS), Florida Department of Environmental Protection (FDEP)</publish>
+                </pubinfo>
+                <othercit>Ongoing work to be published at a later date</othercit>
+                <onlink>http://publicfiles.dep.state.fl.us/OTIS/GIS/data/FGS_SWALLETS.zip</onlink>
+                <lworkcit>
+                    <citeinfo>
+                        <title>Swallets of Florida</title>
+                    </citeinfo>
+                </lworkcit>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This data set represents swallets (Stream to sink features) discovered, researched and mapped by the Florida Department of Environmental Protection, Florida Geological Survey, Florida Swallet Survey. The Florida Swallet Survey was a mapping program funded by the Florida Department of Environmental Protection's Florida Springs Initiative. A swallet is a stream to sink feature, meaning there is a contribution area that concentrates runoff into identifiable streams that disappear underground at a specific point through a sinkhole. The streams may be either intermittent or continuously flowing. Data collected includes: GPS points from a Trimble ProXR and TSC-1 Data Logger; length and width of pools and basins using a range finder; pool depths, if possible, using a hand-held sonar depth finder; color, clarity and visibility of the water in the pool using a secchi disk; photos were taken and written assessments were made of the geology, topography, vegetation, and notations of anything within a 150-meter radius.</abstract>
+            <purpose>The purpose of this data set is to provide locational reference to stream-to-sink features where surface waters enter karst features and interacts with Florida aquifers.</purpose>
+            <supplinf>This dataset represents swallet locations that were within the scope of the Florida Springs Initiative / Florida Swallet Survey project. As such, not all Florida swallets are included in this dataset, and it is by no means comprehensive. Many documented swallets are located on non-public lands. These may or may not be accessible to the public and permission to access them MUST be granted by the property owner in advance of any attempt to visit these swallets. More information on Florida hydrogeology is available from the FGS online at https://floridadep.gov/fgs/research</supplinf>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <rngdates>
+                    <begdate>20030101</begdate>
+                    <enddate>20070601</enddate>
+                </rngdates>
+            </timeinfo>
+            <current>ground condition</current>
+        </timeperd>
+        <status>
+            <progress>Complete</progress>
+            <update>None planned</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-85.585879</westbc>
+                <eastbc>-81.562119</eastbc>
+                <northbc>30.821731</northbc>
+                <southbc>27.839653</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Karst</themekey>
+                <themekey>Geology and Geophysics</themekey>
+                <themekey>Sinking streams</themekey>
+                <themekey>Stream to sink</themekey>
+                <themekey>Florida</themekey>
+                <themekey>Swallets</themekey>
+            </theme>
+            <theme>
+                <themekt>ISO 19115 Topic Categories</themekt>
+                <themekey>inlandWaters</themekey>
+                <themekey>geoscientificInformation</themekey>
+            </theme>
+            <place>
+                <placekt>None</placekt>
+                <placekey>FLORIDA</placekey>
+                <placekey>FL</placekey>
+                <placekey>Florida</placekey>
+                <placekey>Fla</placekey>
+            </place>
+            <stratum>
+                <stratkt>None</stratkt>
+                <stratkey>Surface</stratkey>
+            </stratum>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>These data should not be used scales larger than 1:10,000. Data should not be used for engineering, survey, cadastral, or land conveyance purposes. Data were collected, processed, and corrected using a Trimble Pro-XR GPS receiver and GPS Pathfinder 4.2 software.</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Florida Geological Survey</cntorg>
+                    <cntper>Alan Baker</cntper>
+                </cntorgp>
+                <cntpos>Professional Geologist</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>3000 Commonwealth Blvd, Suite 1</address>
+                    <city>Tallahassee</city>
+                    <state>Florida</state>
+                    <postal>32303</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>(850) 617-0300</cntvoice>
+                <cntfax>(850) 617-0341</cntfax>
+                <cntemail>alan.baker@dep.state.fl.us</cntemail>
+                <hours>Monday-Friday, 9A - 6P</hours>
+                <cntinst>Primary contact should be made via email if possible.</cntinst>
+            </cntinfo>
+        </ptcontac>
+        <datacred>Florida Geological Survey, Florida Swallet Survey. Report as yet unpublished.</datacred>
+        <secinfo>
+            <secsys>NA</secsys>
+            <secclass>Unclassified</secclass>
+            <sechandl>None. No proprietary information included in this dataset.</sechandl>
+        </secinfo>
+        <native>Version 6.2 (Build 9200) ; Esri ArcGIS 10.3.1.4959</native>
+        <crossref>
+            <citeinfo>
+                <title>Swallets of Florida</title>
+            </citeinfo>
+        </crossref>
+    </idinfo>
+    <dataqual>
+        <attracc>
+            <attraccr>Attributes meet the required accuracy of the funding grant. Accuracy is generally consistent with the type of GPS unit used to record locations; however, significant offsets may exist at sites which were unaccessible by foot. A complete Microsoft Access database of features is available.</attraccr>
+            <qattracc>
+                <attraccv>NA</attraccv>
+                <attracce>NA</attracce>
+            </qattracc>
+        </attracc>
+        <logic>The data for this report follows the consistency required of the project. Point locations were gathered using handheld GPS receivers; however, these data are not necessarily suitable for site-specific, cadastral, or other projects of similar intents. Please contact the FGS for further details.</logic>
+        <complete>This dataset represents all known swallets as of July 2007. Subsequent updates are not currently planned, but may occur if and when new data are made available.</complete>
+        <posacc>
+            <horizpa>
+                <horizpar>Horizontal accuracy meets or exceeds the National Mapping Standards of 1947. GPS positional accuracy is within +/- 5 meters and in most cases +/- 1 meter depending on canopy and satellite availablity.</horizpar>
+                <qhorizpa>
+                    <horizpav>5</horizpav>
+                    <horizpae>NA</horizpae>
+                </qhorizpa>
+            </horizpa>
+            <vertacc>
+                <vertaccr>Vertical accuracy does not meet NMS 1947 standards as no vertical datum has been applied to this data.</vertaccr>
+            </vertacc>
+        </posacc>
+        <lineage>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <title>Swallets of Florida</title>
+                    </citeinfo>
+                </srccite>
+                <srcscale>0</srcscale>
+                <typesrc>None</typesrc>
+                <srccitea>Swallets of Florida</srccitea>
+                <srccontr>Field work and post-processing completed by staff funded under the Florida Springs Initiative / Florida Swallet Survey.</srccontr>
+            </srcinfo>
+            <procstep>
+                <procdesc>Two full-time and several part-time researchers comb the first magnitude springsheds using topographic maps, aerial photos, USDA soil surveys, and local knowledge in search of potential swallets. With the property owner?s permission, field teams make on-site investigations to determine if a feature qualifies and, if it does, it is then cataloged. A true swallet is a stream to sink feature, meaning there is a contribution area that concentrates runoff into identifiable streams that disappear underground at a specific point. The streams may be either intermittent or continuously flowing. Data collected includes: GPS points and areas using a backpack Trimble; length and width of pools and basins using a range finder; pool depths, if possible, using a hand-held sonar depth finder; color, clarity and visibility of the water in the pool using a secchi disk; photos are taken and written assessments are made of the geology, topography, vegetation, and notations of anything within a 150-meter radius.</procdesc>
+                <proccont>
+                    <cntinfo>
+                        <cntorgp>
+                            <cntorg>Florida Geological Survey</cntorg>
+                            <cntper>Alan Baker</cntper>
+                        </cntorgp>
+                        <cntpos>Section Head, Geologic Information and Data Management Section</cntpos>
+                        <cntaddr>
+                            <addrtype>mailing and physical</addrtype>
+                            <address>3000 Commonwealth Blvd., Suite 1</address>
+                            <city>Tallahassee</city>
+                            <state>Florida</state>
+                            <postal>32303</postal>
+                            <country>US</country>
+                        </cntaddr>
+                        <cntvoice>(850) 617-0300</cntvoice>
+                        <cntfax>(850) 617-0341</cntfax>
+                        <cntemail>guy.means@dep.state.fl.us</cntemail>
+                        <cntemail>alan.baker@dep.state.fl.us</cntemail>
+                        <hours>Monday - Friday, 9A - 6P.</hours>
+                        <cntinst>Email is preferred.</cntinst>
+                    </cntinfo>
+                </proccont>
+            </procstep>
+            <procstep>
+                <procdesc>Spatial data exported from Microsoft Access, imported using ADD XY.</procdesc>
+                <procdate>20060217</procdate>
+            </procstep>
+            <procstep>
+                <procdesc>Obtained data from FGS and inserted a new layer in ArcSDE. Data published in DataMiner and MapDirect.</procdesc>
+                <procdate>20110817</procdate>
+                <proccont>
+                    <cntinfo>
+                        <cntorgp>
+                            <cntorg>Florida Department of Environmental Protection (FDEP) OTIS/GIS Section</cntorg>
+                        </cntorgp>
+                        <cntaddr>
+                            <addrtype>mailing and physical</addrtype>
+                            <address>2600 Blair Stone Rd MS 6520</address>
+                            <city>Tallahassee</city>
+                            <state>FL</state>
+                            <postal>32399-2400</postal>
+                            <country>US</country>
+                        </cntaddr>
+                        <cntemail>GIS.Librarian@dep.state.fl.us</cntemail>
+                    </cntinfo>
+                </proccont>
+            </procstep>
+        </lineage>
+    </dataqual>
+    <spdoinfo>
+        <indspref>NA</indspref>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>Entity point</sdtstype>
+                <ptvctcnt>303</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>DEP.FGS_SWALLETS</enttypl>
+                <enttypd>Swallets of Florida</enttypd>
+                <enttypds>FDEP/FGS</enttypds>
+            </enttyp>
+            <attr>
+                <attrlabl>OUTDIR</attrlabl>
+                <attrdef>Outflow direction</attrdef>
+                <attrdefs>Field crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>STRUCTURES</attrlabl>
+                <attrdef>Nearby structures</attrdef>
+                <attrdefs>Field crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>PAVEMENT</attrlabl>
+                <attrdef>Nearby pavements</attrdef>
+                <attrdefs>Field crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>DATEIN</attrlabl>
+                <attrdef>Date entered into database</attrdef>
+                <attrdefs>Field crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>Shape</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Coordinates defining the features.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>SWALLETID</attrlabl>
+                <attrdef>Internally defined ID</attrdef>
+                <attrdefs>FGS Florida Swallet Survey</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>NAME</attrlabl>
+                <attrdef>Local or assigned name for feature</attrdef>
+                <attrdefs>FGS Florida Swallet Survey</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>CONFIRMED</attrlabl>
+                <attrdef>Confirmed - visible inflow</attrdef>
+                <attrdefs>Field crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>ORIENT2</attrlabl>
+                <attrdef>Orientation of second measurements</attrdef>
+                <attrdefs>Field crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>PHOTO</attrlabl>
+                <attrdef>Photo taken</attrdef>
+                <attrdefs>Internal</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>POOLDIM2</attrlabl>
+                <attrdef>Pool dimensions</attrdef>
+                <attrdefs>Field crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>SECCHI</attrlabl>
+                <attrdef>Secchi observed</attrdef>
+                <attrdefs>Field crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>SURFOILS</attrlabl>
+                <attrdef>Surface oils present</attrdef>
+                <attrdefs>Field crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>INFLOW</attrlabl>
+                <attrdef>Inflow amounts</attrdef>
+                <attrdefs>Field crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>BUFFER</attrlabl>
+                <attrdef>Buffer zone surrounding swallet</attrdef>
+                <attrdefs>Field crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>UNDERSTORY</attrlabl>
+                <attrdef>Understory</attrdef>
+                <attrdefs>Field crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>OUTFLOW</attrlabl>
+                <attrdef>Outflow, if any</attrdef>
+                <attrdefs>Field crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>GEOLOGY</attrlabl>
+                <attrdef>Local geology</attrdef>
+                <attrdefs>Field crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>ORIENT1</attrlabl>
+                <attrdef>Orientation of first measurement</attrdef>
+                <attrdefs>Field crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>CNTY_FIPS</attrlabl>
+                <attrdef>County FIPS number</attrdef>
+                <attrdefs>US Census</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>POOLDIM1</attrlabl>
+                <attrdef>Measurement of pool</attrdef>
+                <attrdefs>Field crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>TERRVEG</attrlabl>
+                <attrdef>Vegetation surrounding swallet</attrdef>
+                <attrdefs>Field crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>DATEVIS</attrlabl>
+                <attrdef>Date visited</attrdef>
+                <attrdefs>Field crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>NATFEAT</attrlabl>
+                <attrdef>Natural Features</attrdef>
+                <attrdefs>Field crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>COUNTY</attrlabl>
+                <attrdef>County location</attrdef>
+                <attrdefs>County boundaries</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>HAE</attrlabl>
+                <attrdef>Height above Elipsoid</attrdef>
+                <attrdefs>GPS</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>DEPTH</attrlabl>
+                <attrdef>Depth of Swallet Pool</attrdef>
+                <attrdefs>Field crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>CONTACTID</attrlabl>
+                <attrdef>Contact person for swallet</attrdef>
+                <attrdefs>Internal</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>H2OVEG</attrlabl>
+                <attrdef>Water vegetation</attrdef>
+                <attrdefs>Field crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>INDIR</attrlabl>
+                <attrdef>Inflow direction</attrdef>
+                <attrdefs>Field crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>COLOR</attrlabl>
+                <attrdef>Water color</attrdef>
+                <attrdefs>Field crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>GEOID03</attrlabl>
+                <attrdef>GEOID used</attrdef>
+                <attrdefs>USGS</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>OFFSETBEAR</attrlabl>
+                <attrdef>Bearing of feature when GPS taken</attrdef>
+                <attrdefs>Internal</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>LATITUDE</attrlabl>
+                <attrdef>Calculated Latitude from DMS</attrdef>
+                <attrdefs>Internal</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>LONGITUDE</attrlabl>
+                <attrdef>Calculated Longitude from DMS</attrdef>
+                <attrdefs>Internal</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>BASDIM1</attrlabl>
+                <attrdef>Base dimensions</attrdef>
+                <attrdefs>Field Crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>BASDIM2</attrlabl>
+                <attrdef>Base Dimensions</attrdef>
+                <attrdefs>Field Crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>MAXH2ODEPT</attrlabl>
+                <attrdef>Maximum water depth</attrdef>
+                <attrdefs>Field Crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>LANDUSE</attrlabl>
+                <attrdef>Landuse code</attrdef>
+                <attrdefs>Field Crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>EROSION</attrlabl>
+                <attrdef>Erosion potential</attrdef>
+                <attrdefs>Field Crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>NPSPOLL</attrlabl>
+                <attrdef>National Park Service area</attrdef>
+                <attrdefs>NPS</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>HANDSAMPLE</attrlabl>
+                <attrdef>Handsample taken / ID</attrdef>
+                <attrdefs>Field Crew</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>ALBERS_X</attrlabl>
+                <attrdef>X-coordinate in meters from point of origin. Based on custom FDEP Albers NAD83 HARN projection.</attrdef>
+                <attrdefs>Calculated from longitude in decimal degrees.</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>ALBERS_Y</attrlabl>
+                <attrdef>Y-coordinate in meters from point of origin. Based on custom FDEP Albers NAD83 HARN projection.</attrdef>
+                <attrdefs>Calculated from longitude in decimal degrees.</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>LU_DESC</attrlabl>
+                <attrdef>Land use description.</attrdef>
+                <attrdefs>Post-analysis of type of land use at/near the site, based on field observations and/or aerial imagery.</attrdefs>
+            </attr>
+        </detailed>
+        <overview>
+            <eaover>Attributes were taken for each swallet as available. The list of attributes was determined by the project manager as needed for the study.</eaover>
+            <eadetcit>NA</eadetcit>
+        </overview>
+    </eainfo>
+    <distinfo>
+        <distliab>Geographic Information Systems (GIS) data and maps produced by the Florida Geological Survey (FGS), an office of the Florida Department of Environmental Protection (FDEP), are provided solely as a general reference for state geologic features, are not warranted for any other use or purpose, and are not intended to replace site-specific or use-specific investigations. Use of FGS data and maps by an end-user for any purpose other than general reference shall free the FDEP and the FGS from any and all liability for outcomes resulting from unintended or inappropriate applications of FGS spatial data. Examples of such applications include but are not limited to the mapping of point data with respect to cadastral boundaries, the use of geologic data for engineering purposes, and the interpolation of results of broad-scale GIS modeled surfaces to local areas that may or may not be deemed geologically analogous. As with all spatial data, the attributes and exact coordinates of features depicted in FGS maps, coverages and datasets are subject to inherent errors due to limitations in the resources and technology available to record data. Please keep in mind that older maps, projects, and data were developed using the best tools and knowledge available at the time, and that spatial data standards and the tools used to develop these data have improved significantly over the last several years. Existing maps and projects are sometimes updated and enhanced with new data of higher precision, and thus are subject to change. The FGS makes every effort to provide the most up-to-date and accurate geographic information possible, but cannot be held liable for the use of outdated data regardless of whether more current data have been obtained, analyzed, or made available by the FGS or FDEP. Any modifications of FGS spatial data or maps by end-users must be acknowledged and noted appropriately in all subsequent products and analysis, and any FDEP/FGS logos or author information must be removed from altered FGS products prior to distribution to any other individual or entity. All FGS spatial data and maps are distributed on an "as is" basis and end-users shall assume all risks concerning data quality, performance, and analytic results. The same shall also be true concerning the use of unpublished drafts of FGS products, which may not be distributed to other individuals or entities without prior FGS approval. Comments and inquiries regarding FDEP/FGS spatial data, maps, projects, and other analysis are encouraged and the FGS asks to be notified of any documented errors or inaccuracies. As a professional courtesy, the FDEP/FGS asks that due credit be given when our data sets are utilized by other individuals or entities. Further, since some or all of the data yielded from each FGS project were developed using public funds, no proprietary rights may be attached to FGS products wholly or in part, nor may FGS products be sold to the U.S. Government or the Florida State Government as part of any procurement of products or services. By using FGS spatial data or maps for any purpose other than general reference, the end-user acknowledges all the aforementioned stipulations and absolves the FDEP/FGS completely of any responsibility for unintended or inappropriate usage. For questions, comments, or observations regarding FGS spatial datasets or maps, including questions concerning appropriate uses for specific datasets, please contact the FGS GIS analyst listed below. Alan Baker, PG. 3000 Commonwealth Blvd, Suite 1, Tallahassee, Fl 32303. Alan.Baker@dep.state.fl.us</distliab>
+        <stdorder>
+            <digform>
+                <digtopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>http://publicfiles.dep.state.fl.us/OTIS/GIS/data/FGS_SWALLETS.zip</networkr>
+                            </networka>
+                        </computer>
+                    </onlinopt>
+                </digtopt>
+            </digform>
+        </stdorder>
+    </distinfo>
+    <metainfo>
+        <metd>20171012</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Florida Department of Environmental Protection (FDEP) OTIS/GIS Section</cntorg>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>2600 Blair Stone Rd</address>
+                    <address>MS 6520</address>
+                    <city>Tallahassee</city>
+                    <state>Florida</state>
+                    <postal>32399-2400</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntemail>GIS.Librarian@dep.state.fl.us</cntemail>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
